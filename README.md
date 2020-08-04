@@ -1,7 +1,7 @@
 # Đồ án cuối kỳ môn Phương pháp nghiên cứu khoa học
 MÔ HÌNH HỒI QUY LOGISTIC (LOGISTIC REGRESSION MODEL) VÀ NHỮNG ỨNG DỤNG THỰC TẾ
 
-###Example1:
+### Example1:
 Phân tích dữ liệu về độ ưa thích với hàm lượng chất béo trong nước tương
-###Example2: 
+### Example2: 
 Sự liên quan giữa GRE (Điểm thi tốt nghiệp), GPA (điểm trung bình) và uy tín của tổ chức đại học có hiệu lực nhập học vào trường sau đại học:
